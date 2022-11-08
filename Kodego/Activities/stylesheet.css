@@ -1,0 +1,39 @@
+html{
+    margin: 0px 400px 0px 400px;
+    font-size: 15px;
+    
+}
+
+header{
+    background-color: #110030;
+    padding: 25px;
+    color: white;
+    line-height: 10px;
+}
+
+.Name{
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+
+.summary{
+    text-align: left;
+    line-height: 25px;
+    width: 700px;
+    padding-top: 10px;
+    
+}
+
+.work-intro, .Edu-intro{
+    padding-top: 50px;
+}
+
+
+img{
+    height: 50px;
+}
+
+ul{
+    line-height: 30px;
+}
+
